@@ -4,7 +4,7 @@ Its main programming language is C/C++.
 "a0Jmcs" can be pronounced as /eɪ ˈzɪərəʊ dʒeɪ 'meks/.
 
 ----------------------------------------------------------------
-# components
+# Components
 a0Jmcs version 1.0.0.1 will include the following components:
 
 1.TransportationNet and Job editor.
