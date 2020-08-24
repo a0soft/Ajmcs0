@@ -1,11 +1,11 @@
-# a0Jmcs
-A Job Monitoring and Control System based "0", for controlled mobile agents, especially AGVs.
+# Ajmcs0
+Agent Job Monitoring and Control System based "0", for controlled mobile agents, especially AGVs.
 Its main programming language is C/C++.
-"a0Jmcs" can be pronounced as /eɪ ˈzɪərəʊ dʒeɪ 'meks/.
+"Ajmcs0" can be pronounced as /eɪ dʒeɪ 'meks ˈzɪərəʊ/.
 
 ----------------------------------------------------------------
 # Architecture
-a0Jmcs version 1.0.0.1 will include the following components:
+Ajmcs0 version 1.0.0.1 will include the following components:
 
 1.TransportationNet and Job editor.
 
@@ -17,11 +17,11 @@ a0Jmcs version 1.0.0.1 will include the following components:
 
 5.Documentation for users and developers.
 
-The version of Jmcs4Bots below 1.0.0.1 will be compatible with transportation net data format of OpenTCS 5.0.0.
+The version of Ajmcs0 below 1.0.0.1 will be compatible with transportation net data format of OpenTCS 5.0.0.
 
 The source code will be gradually opened.
 
 ----------------------------------------------------------------
 # Copyright and License
 
-a0Jmcs is licensed under the Apache License, Version 2.0.
+Ajmcs0 is licensed under the Apache License, Version 2.0.
