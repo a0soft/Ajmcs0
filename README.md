@@ -1,11 +1,10 @@
-# Ajmcs0
-Agent Job Monitoring and Control System based "0", for controlled mobile agents, especially AGVs.
+# Ajmcp
+Agent Job Monitoring and Control Platform, for controlled mobile Agents, especially AGVs.
 Its main programming language is C/C++.
-"Ajmcs0" can be pronounced as /eɪ dʒeɪ 'meks ˈzɪərəʊ/.
 
 ----------------------------------------------------------------
 # Architecture
-Ajmcs0 version 1.0.0.1 will include the following components:
+Ajmcp version 1.0.0.1 will include the following components:
 
 1.TransportationNet and Job editor.
 
